@@ -1,0 +1,1 @@
+I have added the MemTools.h file inside jni folder and has set up everything as per order but the problem is its unable to find pid or isapkrunning () is returning null value on x86 structure emulator
